@@ -9,3 +9,5 @@ Stash example
 Stash example 2
 
 Stash example 3
+
+Tag test
