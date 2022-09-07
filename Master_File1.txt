@@ -5,3 +5,5 @@ This is line 2 from local laptop
 Third line from laptop
 
 Stash example
+
+Stash example 2
