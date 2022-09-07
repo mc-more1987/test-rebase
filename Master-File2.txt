@@ -1,3 +1,5 @@
 Master-File2
 
 New line from remote
+
+Second line from remote
